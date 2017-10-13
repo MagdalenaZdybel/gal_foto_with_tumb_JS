@@ -10,3 +10,7 @@
     height: 478px;
     margin-top: 15px;
 }
+.current {
+    border: 2px solid pink;
+    margin-bottom: -2px;
+}
